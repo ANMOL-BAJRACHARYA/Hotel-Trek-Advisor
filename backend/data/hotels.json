@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "name": "Grand Hotel Luxury",
+    "description": "A 5-star luxury hotel with stunning views and world-class amenities",
+    "location": "Downtown",
+    "price": 250,
+    "rating": 4.8,
+    "imageUrl": "https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+    "amenities": ["Pool", "Spa", "Gym", "Restaurant", "Bar", "Room Service"],
+    "roomTypes": ["Standard", "Deluxe", "Suite"],
+    "available": true
+  },
+  {
+    "id": "2",
+    "name": "Seaside Resort & Spa",
+    "description": "Beachfront resort offering relaxation and water activities",
+    "location": "Beachfront",
+    "price": 180,
+    "rating": 4.5,
+    "imageUrl": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+    "amenities": ["Beach Access", "Spa", "Pool", "Water Sports", "Restaurant"],
+    "roomTypes": ["Ocean View", "Garden View", "Beach Villa"],
+    "available": true
+  },
+  {
+    "id": "3",
+    "name": "Mountain Lodge",
+    "description": "Cozy mountain retreat with scenic hiking trails",
+    "location": "Mountains",
+    "price": 150,
+    "rating": 4.6,
+    "imageUrl": "https://images.unsplash.com/photo-1587061949409-02df41d5e562?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+    "amenities": ["Fireplace", "Hiking Trails", "Restaurant", "Bar"],
+    "roomTypes": ["Standard", "Family Suite", "Cabin"],
+    "available": true
+  },
+  {
+    "id": "4",
+    "name": "City Center Hotel",
+    "description": "Modern hotel in the heart of the city",
+    "location": "City Center",
+    "price": 120,
+    "rating": 4.3,
+    "imageUrl": "https://images.unsplash.com/photo-1566665797739-1674de7a421a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1074&q=80",
+    "amenities": ["Business Center", "Gym", "Restaurant", "Parking"],
+    "roomTypes": ["Standard", "Business Suite", "Executive"],
+    "available": true
+  },
+  {
+    "id": "5",
+    "name": "Historic Boutique Hotel",
+    "description": "Charming hotel in a restored historic building",
+    "location": "Old Town",
+    "price": 200,
+    "rating": 4.7,
+    "imageUrl": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+    "amenities": ["Library", "Garden", "Tea Room", "Restaurant"],
+    "roomTypes": ["Classic", "Heritage Suite", "Royal Suite"],
+    "available": true
+  }
+]

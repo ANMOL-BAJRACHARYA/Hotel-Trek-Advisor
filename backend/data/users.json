@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1",
+    "username": "admin",
+    "email": "admin@hoteltrek.com",
+    "password": "$2b$10$o0.xu9NX8ItIQTYll.OE5uGnqB058rs.aZiQh9U6YOmkH34V8cMjm",
+    "role": "admin",
+    "isFirstLogin": false,
+    "createdAt": "2025-04-05T16:01:57.226Z",
+    "phone": "9860557005"
+  }
+]
